@@ -6,4 +6,4 @@ spring:
     password: root
 xiang:
   message: hello SpringCloud
-  name: Xiangxiang
+  name: Xiaocencen
