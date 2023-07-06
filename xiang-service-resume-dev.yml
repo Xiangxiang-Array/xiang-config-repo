@@ -1,9 +1,9 @@
 spring:
   datasource:
     driverClassName: com.mysql.jdbc.Driver
-    url: jdbc:mysql:///lagou
+    url: jdbc:mysql:///lagou?userUnicode=true&characterEncoding=utf8
     username: root
     password: root
 xiang:
-  message: hello SpringCloud
-  name: Xiaocencen
+  message: hello SpringCloud Xiang
+  name: ABCD
