@@ -6,3 +6,4 @@ spring:
     password: root
 xiang:
   message: hello SpringCloud I'm Array You are best
+  name: Hello
