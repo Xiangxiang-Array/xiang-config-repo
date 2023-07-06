@@ -5,5 +5,5 @@ spring:
     username: root
     password: root
 xiang:
-  message: Money 你好
-  name: Good boy Hello
+  message: 你大爷
+  name: 我是你大爷
